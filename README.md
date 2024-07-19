@@ -31,7 +31,7 @@ Para configurar e executar o projeto localmente, siga estas etapas:
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-js.git
+   git clone git@github.com:Jhonypd/intro-test.git
    ```
 
 2. **Navegue até o Diretório do Projeto**
